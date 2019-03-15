@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css?family=Butcherman|Josefin+Sans|Righteous');
+
+body {
+    background-image: url(http://localhost/error-page-assignment/img/bg.jpeg);
+    width: auto;
+    background-size:cover;
+}
+ 
+h1{
+    font-family: 'Butcherman', cursive;
+    font-size: 5rem;
+    color: aliceblue;
+    text-align: center;
+}
+
+h2{
+    font-family: 'Righteous', cursive;
+    color: aliceblue;
+    text-align: center;
+}
+
+p{
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 1.5rem;
+    color: aliceblue;
+    text-align: center;
+}
+
+a:visited {
+    color: beige;
+    
+}
+
+a:hover {
+    color: cadetblue;
+}
